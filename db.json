@@ -3,6 +3,7 @@
     {
       "id":1,  
       "job_title": "Software Developer",
+      "cmp_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAU2r-709qkZeCFT0Zdmhoyg2_UYm6xF0rA&s",
       "company": "Amazon",
       "location": "Hyderabad",
       "salary" : 1000000,
@@ -12,6 +13,7 @@
       "id":2, 
       "job_title": "Full-stack Developer",
       "company": "Amazon",
+      "cmp_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAU2r-709qkZeCFT0Zdmhoyg2_UYm6xF0rA&s",
       "location": "Chennai",
       "salary": 700000,
       "description": "We are seeking a skilled and passionate Full-Stack Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, testing, and maintaining both front-end and back-end components of web applications that meet business and customer needs. You will collaborate with cross-functional teams to deliver high-quality software solutions."
@@ -20,6 +22,7 @@
         "id":3, 
         "job_title": "Cloud Engineer",
         "company": "Amazon",
+        "cmp_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAU2r-709qkZeCFT0Zdmhoyg2_UYm6xF0rA&s",
         "location": "Mumbai",
         "salary": 700000,
         "description": "We are seeking a skilled and passionate Cloud Engineer to join our dynamic team. The ideal candidate will be responsible for designing, implementing, and maintaining cloud infrastructure solutions that meet business and customer needs. You will collaborate with cross-functional teams to deliver scalable and secure cloud solutions."
@@ -28,6 +31,7 @@
         "id":4, 
         "job_title": "ML Engineer",
         "company": "Amazon",
+        "cmp_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAU2r-709qkZeCFT0Zdmhoyg2_UYm6xF0rA&s",
         "location": "Kolkata",
         "salary": 700000,
         "description": "We are seeking a skilled and passionate Machine Learning Engineer to join our dynamic team. The ideal candidate will be responsible for designing, developing, and deploying machine learning models that meet business and customer needs. You will collaborate with cross-functional teams to deliver scalable and high-performance AI solutions."
@@ -36,6 +40,7 @@
         "id":5, 
         "job_title": "AI Developer",
         "company": "Amazon",
+        "cmp_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAU2r-709qkZeCFT0Zdmhoyg2_UYm6xF0rA&s",
         "location": "Banglore",
         "salary": 700000,
         "description": "We are seeking a skilled and passionate AI Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, and deploying AI-driven applications that meet business and customer needs. You will collaborate with cross-functional teams to deliver scalable and high-performance AI solutions."
@@ -44,6 +49,7 @@
         "id":6, 
         "job_title": "Prompt Engineer",
         "company": "Amazon",
+        "cmp_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAU2r-709qkZeCFT0Zdmhoyg2_UYm6xF0rA&s",
         "location": "Pune",
         "salary": 700000,
         "description": "We are seeking a skilled and creative Prompt Engineer to join our dynamic team. The ideal candidate will be responsible for designing, optimizing, and maintaining AI-generated prompts that drive high-quality outputs for various applications. You will collaborate with cross-functional teams to develop effective prompt strategies and improve AI model interactions."
@@ -54,6 +60,7 @@
         "id":7, 
         "job_title": "Software Developer",
         "company": "Google",
+        "cmp_img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
         "location": "Hyderabad",
         "salary" : 1000000,
         "description": "We are seeking a skilled and passionate Software Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, testing, and maintaining software applications that meet business and customer needs. You will collaborate with cross-functional teams to deliver high-quality software solutions."
@@ -62,6 +69,7 @@
         "id":8, 
         "job_title": "Full-stack Developer",
         "company": "Google",
+        "cmp_img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
         "location": "Kolkata",
         "salary" : 1000000,
         "description": "We are seeking a skilled and passionate Full-Stack Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, testing, and maintaining both front-end and back-end components of web applications that meet business and customer needs. You will collaborate with cross-functional teams to deliver high-quality software solutions."
@@ -70,6 +78,7 @@
         "id":9, 
         "job_title": "Prompt Engineer",
         "company": "Google",
+        "cmp_img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
         "location": "Pune",
         "salary": 700000,
         "description": "We are seeking a skilled and creative Prompt Engineer to join our dynamic team. The ideal candidate will be responsible for designing, optimizing, and maintaining AI-generated prompts that drive high-quality outputs for various applications. You will collaborate with cross-functional teams to develop effective prompt strategies and improve AI model interactions."
@@ -78,16 +87,16 @@
         "id":10, 
         "job_title": "Cloud Engineer",
         "company": "Google",
+        "cmp_img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
         "location": "Chennai",
         "salary": 700000,
         "description":"We are seeking a skilled and passionate Cloud Engineer to join our dynamic team. The ideal candidate will be responsible for designing, implementing, and maintaining cloud infrastructure solutions that meet business and customer needs. You will collaborate with cross-functional teams to deliver scalable and secure cloud solutions."
     },
-
-
     {
         "id":11, 
         "job_title": "Associate Software Engineer",
         "company": "Accenture",
+        "cmp_img" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/1024px-Accenture.svg.png",
         "location": "Hyderabad",
         "salary": 500000,
         "description":  "We are seeking a skilled and passionate Associate Software Engineer to join our dynamic team. The ideal candidate will be responsible for designing, developing, testing, and maintaining software applications that meet business and customer needs. You will collaborate with cross-functional teams to deliver high-quality software solutions."
@@ -96,6 +105,7 @@
         "id":12, 
         "job_title": "Software Developer",
         "company": "Accenture",
+        "cmp_img" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/1024px-Accenture.svg.png",
         "location": "Mumbai",
         "salary": 550000,
         "description":  "We are seeking a skilled and passionate Software Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, testing, and maintaining software applications that meet business and customer needs. You will collaborate with cross-functional teams to deliver high-quality software solutions."
@@ -104,6 +114,7 @@
         "id":13, 
         "job_title": "Cloud Engineer",
         "company": "Accenture",
+        "cmp_img" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/1024px-Accenture.svg.png",
         "location": "Pune",
         "salary": 600000,
         "description": "We are seeking a skilled and passionate Cloud Engineer to join our dynamic team. The ideal candidate will be responsible for designing, implementing, and maintaining cloud infrastructure solutions that meet business and customer needs. You will collaborate with cross-functional teams to deliver scalable and secure cloud solutions."
@@ -112,6 +123,7 @@
         "id":14, 
         "job_title": "Prompt Engineer",
         "company": "Accenture",
+        "cmp_img" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/1024px-Accenture.svg.png",
         "location": "Kolkata",
         "salary": 600000,
         "description": "We are seeking a skilled and creative Prompt Engineer to join our dynamic team. The ideal candidate will be responsible for designing, optimizing, and maintaining AI-generated prompts that drive high-quality outputs for various applications. You will collaborate with cross-functional teams to develop effective prompt strategies and improve AI model interactions."
